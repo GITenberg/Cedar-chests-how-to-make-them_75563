@@ -1,0 +1,35 @@
+_repo: Cedar-chests-how-to-make-them_75563
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Windoes, Ralph Flagg
+    alias: Windoes, Ralph F.
+    birthdate: 1891
+    deathdate: 1967
+    gutenberg_agent_id: '58050'
+    url: http://www.gutenberg.org/2009/agents/58050
+description: ''
+edition_note: Second edition, enlarged
+gutenberg_issued: '2025-03-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75563'
+  lccn: '21019582'
+language: en
+pgterms:marc904: https://archive.org/details/cedarchestshowto00wind/page/n7/mode/2up
+pgterms:marc905: 20210609224527windoes
+pgterms:marc906: '1918'
+pgterms:marc907: US
+production_note: Bob Taylor, Charlene Taylor and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: '  $aMilwaukee :$bThe Bruce Publishing Co., $c1918, copyright 1921.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Chests'
+- !lcc 'TT'
+- GITenberg
+title: Cedar chests, how to make them
+url: http://www.gutenberg.org/ebooks/75563
